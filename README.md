@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbazm-dev" alt="shahbazm-dev" /></a> </p>
 
-<img align="right" alt="gif" width="400" src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif">
+<img align="right" alt="gif" width="300" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🔭 I’m currently working on **Developing transformative AI solutions**
 
