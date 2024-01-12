@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Mustafa</h1>
+
+![LOGO](https://github.com/ShahbazM-Dev/ShahbazM-Dev/blob/main/_Black%20and%20Green%20Futuristic%20Technology%20LinkedIn%20Banner%20(1).png)
+
 <h3 align="center">Unleashing the potential of Python, AI, Machine Learning, NLP, Power BI, and Chat GPT. Transforming raw data into actionable insights, crafting innovative solutions, and enhancing user interactions through high-performance chatbots. Bridging the gap between data and business impact with a proven track record in AI-powered Chatbot development, integration, and enhancement. Let's embark on a journey of meaningful transformations together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazm-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazm-dev" /> </p>
