@@ -2,11 +2,17 @@
 
 ![LOGO](https://github.com/ShahbazM-Dev/ShahbazM-Dev/blob/main/_Black%20and%20Green%20Futuristic%20Technology%20LinkedIn%20Banner%20(1).png)
 
-<h3 align="center">Unleashing the potential of Python, AI, Machine Learning, NLP, Power BI, and Chat GPT. Transforming raw data into actionable insights, crafting innovative solutions, and enhancing user interactions through high-performance chatbots. Bridging the gap between data and business impact with a proven track record in AI-powered Chatbot development, integration, and enhancement. Let's embark on a journey of meaningful transformations together.</h3>
+<h3 align="center">Unleashing the potential of Python, AI, Machine Learning, NLP, Power BI, and Chat GPT. 
+  Transforming raw data into actionable insights, crafting innovative solutions, and enhancing user interactions through high-performance chatbots. 
+  Bridging the gap between data and business impact with a proven track record in AI-powered Chatbot development, integration, and enhancement. 
+  Let's embark on a journey of meaningful transformations together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazm-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazm-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbazm-dev" alt="shahbazm-dev" /></a> </p>
+
+<img align="right" alt="coding" width="250" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif)">
+
 
 - 🔭 I’m currently working on **Developing transformative AI solutions**
 
